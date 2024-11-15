@@ -80,9 +80,10 @@ nav {
 
 .img-cont {
   display: flex;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .img-cont img {
   width: 150px;
-  margin-right: 5px;
 }
