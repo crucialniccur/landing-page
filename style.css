@@ -51,6 +51,7 @@ button {
 }
 
 nav {
+  padding: 10px;
 }
 .top {
   display: flex;
@@ -59,4 +60,8 @@ nav {
 
 .top ul {
   list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 12px;
 }
