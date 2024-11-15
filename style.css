@@ -53,6 +53,7 @@ button {
 nav {
   padding: 10px;
 }
+
 .top {
   display: flex;
   flex-flow: row wrap;
@@ -67,7 +68,12 @@ nav {
   gap: 12px;
 }
 
+.top a {
+  padding: 15px;
+}
+
 .top a:hover {
   background-color: aliceblue;
   color: black;
+  text-decoration: wavy;
 }
