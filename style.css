@@ -55,13 +55,14 @@ nav {
 }
 .top {
   display: flex;
-  flex-flow: row;
+  flex-flow: row wrap;
+  justify-content: space-between;
 }
 
 .top ul {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  padding: 15px;
+  margin: 10px;
   display: flex;
   gap: 12px;
 }
