@@ -37,3 +37,9 @@ button {
 .third-section {
   background-color: #e5e7eb;
 }
+
+.third-section > p {
+  color: #1f2937;
+  font-size: 36px light;
+  font-style: italic;
+}
