@@ -56,3 +56,7 @@ nav {
   display: flex;
   flex-flow: row;
 }
+
+.top ul {
+  list-style-type: none;
+}
